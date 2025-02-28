@@ -1,1 +1,1 @@
-# git_test
+Git project for odins project
